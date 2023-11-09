@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>silder bar menu </title>
+<link rel="stylesheet" type="css/text" href="style.css">
+<srcript src="https://kit.fontawesome.com/a0767d05399.js"></script>
+</head>
+<body>
+
+</body>
+</html>

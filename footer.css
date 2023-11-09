@@ -1,0 +1,19 @@
+.footer
+{
+	height:200px;
+	width:100%;
+	background-color:#373750;
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.footerb
+{
+	height:180px;
+	width:300px;
+	float: left;
+	color:white;
+	text-align: center;
+	
+}
+

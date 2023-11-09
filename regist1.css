@@ -1,0 +1,20 @@
+body{
+    border: px solid black;
+    padding: 50px;
+
+}
+.container
+{
+    
+    border: 0px solid black;
+    max-width: 600px; 
+    padding: 50px;
+    margin:0 auto;
+    box-shadow: rgba(100,100,116,0.2) 0px 7px 29px 0px;
+}
+.form-group
+{
+margin-bottom:30px;
+margin-left: 30%;
+margin-right: 35%;
+}

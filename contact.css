@@ -1,0 +1,17 @@
+.contact
+{
+	width:100%;
+	heigh:430px;
+	border: 0px solid blue;
+	display:flex;
+	justify-content:space-around;
+	align-items: center;
+}
+.contacts
+{
+	width:48%;
+	height:430px;
+	border: 0px solid blue;
+	float:left;
+	
+}
